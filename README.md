@@ -26,5 +26,9 @@ This project analyzes e-commerce sales data using Python, SQL, and Power BI to i
 ## Key Skills Demonstrated
 Data cleaning, exploratory data analysis, SQL querying, data visualization, KPI reporting, and dashboard development.
 
+## Power BI Dashboard Preview
+
+![E-commerce Sales Dashboard](dashboard.png)
+
 ## Author
 Aryan Bansal
