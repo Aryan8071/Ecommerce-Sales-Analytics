@@ -30,5 +30,17 @@ Data cleaning, exploratory data analysis, SQL querying, data visualization, KPI 
 
 ![E-commerce Sales Dashboard](dashboard.png)
 
+## Key Business Insights
+
+- Analyzed 6,500 orders to understand sales performance.
+- Identified monthly order trends and seasonal patterns.
+- Compared revenue across product categories.
+- Identified top-performing products and customers by revenue.
+- Analyzed payment method distribution and order statuses.
+
+## Business Value
+
+This project demonstrates how data analytics can help businesses monitor sales KPIs, understand customer purchasing behavior, and identify high-performing products.
+
 ## Author
 Aryan Bansal
